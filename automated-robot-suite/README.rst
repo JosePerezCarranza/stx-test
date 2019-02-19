@@ -6,12 +6,10 @@ StarlingX Robot suite
    :local:
       :depth: 2
 
-
 Introduction
 ============
 
 This project contains an Automated Test Suite base on Robot Framework that
-validates StarlingX product. For more information about StarligX consult
-`starlingx.io`__
+validates StarlingX product. For more information about StarligX consult:
 
- __https://www.starlingx.io/
+https://www.starlingx.io/
